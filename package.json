@@ -1,0 +1,30 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "Friend Finder app",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "body-parser": "^1.15.2",
+    "mysql": "^2.11.1",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ignatzz/FriendFinder.git"
+  },
+  "keywords": [
+    "friendfinder"
+  ],
+  "author": "Martin Sandeen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ignatzz/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/Ignatzz/FriendFinder#readme"
+}
